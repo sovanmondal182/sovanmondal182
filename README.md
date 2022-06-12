@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently a B.Tech CSE 3rd year student 
-- 🌱 I’m currently learning Python, JavaScript, discord.js, discord.py, NodeJs.
+- 🌱 I’m currently learning Python, JavaScript, discord.js, discord.py, NodeJs, Flutter.
 - 👯 I’m looking to collaborate on Some Projects
 - 🤔 I’m looking for help with learning new stuff.
 - 💬 Ask me about  tech related stuff.
@@ -37,6 +37,7 @@
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>    
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>     -->
 
 
