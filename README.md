@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently a B.Tech CSE 3rd year student 
+- 🔭 I’m currently a B.Tech CSE 4th year student 
 - 🌱 I’m currently learning Python, JavaScript, discord.js, discord.py, NodeJs, Flutter.
 - 👯 I’m looking to collaborate on Some Projects
 - 🤔 I’m looking for help with learning new stuff.
