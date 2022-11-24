@@ -1,4 +1,4 @@
-## Hii, I'm Sovan 👋
+## Hi, I'm Sovan 👋
 <div>
 <a href="https://twitter.com/sovan__mondal">
   <img align="left" alt="Sovan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
