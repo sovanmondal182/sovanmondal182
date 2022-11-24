@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently a B.Tech CSE 4th year student 
-- 🌱 I’m currently learning Python, JavaScript, discord.js, discord.py, NodeJs, Flutter.
+- 🌱 I’m currently learning Flutter, JavaScript, discord.js, NodeJs.
 - 👯 I’m looking to collaborate on Some Projects
 - 🤔 I’m looking for help with learning new stuff.
 - 💬 Ask me about  tech related stuff.
@@ -35,7 +35,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
 
