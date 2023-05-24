@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently a B.Tech CSE 4th year student 
+- 🔭 I am an Application Developer
 - 🌱 I’m currently learning Flutter, JavaScript, discord.js, NodeJs.
 - 👯 I’m looking to collaborate on Some Projects
 - 🤔 I’m looking for help with learning new stuff.
